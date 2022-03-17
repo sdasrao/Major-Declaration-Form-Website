@@ -1,0 +1,1 @@
+<footer class="mt-3 pt-2 pb-3 text-center text-white">Copyright &copy 2021</footer>
