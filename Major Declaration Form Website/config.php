@@ -1,8 +1,8 @@
 <?php
-$servername = "mars.cs.qc.cuny.edu";
-$username = "dasw7804";
-$password = "14117804";
-$dbname = "dasw7804";
+$servername = "     ";
+$username = "     ";
+$password = "     ";
+$dbname = "     ";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
